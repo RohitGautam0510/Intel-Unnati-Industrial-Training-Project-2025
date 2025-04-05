@@ -59,17 +59,28 @@ Open Enhancing Customer Experience with AI-Driven Insights .ipynb and run the tr
 ## 📊 Outputs Explained
 
 ### File	Description
-output_video_X.mp4	Video with overlays and tracking
-customer_heatmap_X.png	Heatmap of customer movement per video
-movement_data_X.csv	Customer coordinates and zones per frame
-combined_heatmap.png	Cumulative heatmap of all videos
-🧠 Built With
-YOLOv4-Tiny
+output_video_X.mp4 - Video with overlays and tracking \
+customer_heatmap_X.png -	Heatmap of customer movement per video \
+movement_data_X.csv -	Customer coordinates and zones per frame \
+combined_heatmap.png -	Cumulative heatmap of all videos \
 
-Deep SORT Realtime
+### 🧠 Built With
+- YOLOv4-Tiny
+* Deep SORT Realtime
++ OpenCV
+- Matplotlib
+* Seaborn
 
-OpenCV
+## 🔮 Future Scope
 
-Matplotlib
+Future developments could include real-time dashboards, multi-camera support, and integration with inventory systems. Enhanced analytics like behavioral pattern recognition and product interaction tracking may provide deeper insights. The system can be extended to edge devices for on-site processing, while ensuring privacy through anonymized tracking and face blurring techniques.
 
-Seaborn
+## Developers of the Project
+
+**Rohit Gautam** (Lead Developer) \
+**Abrez Rizvi** (Developer) \
+**Samdrub Phensah** (Developer) \
+**Aashi Sachdeva** (Developer) 
+
+ ## Affiliated to-
+ **CHRIST (Deemed To Be University) Delhi NCR**
