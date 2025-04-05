@@ -82,5 +82,5 @@ Future developments could include real-time dashboards, multi-camera support, an
 **Samdrub Phensah** (Developer) \
 **Aashi Sachdeva** (Developer) 
 
- ## Affiliated to-
+ ## Affiliation 
  **CHRIST (Deemed To Be University) Delhi NCR**
