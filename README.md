@@ -1,26 +1,33 @@
-Retail Store Customer Tracking System
+# Retail Store Customer Tracking System
+
+## About
 
 A computer vision-based tracking system that uses YOLOv4-tiny and Deep SORT to monitor customer movement in a retail store, generate heatmaps, display real-time alerts, and export analytics per customer.
-Features
-🧍‍♂️ Person Detection & Tracking
+
+## Features
+### 🧍‍♂️ Person Detection & Tracking
 Using YOLOv4-tiny with Deep SORT for robust real-time tracking.
 
-🗺️ Zone Detection & Overlays
+### 🗺️ Zone Detection & Overlays 
 Tracks customer presence in zones: entrance, aisle, checkout, exit.
 
-⚠️ Real-Time Alerts
+### ⚠️ Real-Time Alerts
 Triggers on-screen alerts for prolonged dwell times (customizable).
 
-📸 Heatmap Generation
+### 📸 Heatmap Generation
 
 Individual customer heatmaps: customer_heatmap_1.png, etc.
 
-Combined heatmap: combined_heatmap.png
+## Combined heatmap: 
+![combined_heatmap](https://github.com/user-attachments/assets/9ae7f80d-afb8-448e-be09-b52cf50c382c)
 
-📈 CSV Export
-Per-customer movement logs: movement_data_1.csv, etc.
 
-🎥 Annotated Videos
+## 📈 CSV Export
+
+### Per-customer movement logs: 
+movement_data_1.csv, etc.
+
+### 🎥 Annotated Videos
 Output videos with zone overlays, bounding boxes, and real-time alerts.
 
 📁 Project Directory Overview
