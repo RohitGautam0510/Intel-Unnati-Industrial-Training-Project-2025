@@ -1,4 +1,5 @@
 Retail Store Customer Tracking System
+
 A computer vision-based tracking system that uses YOLOv4-tiny and Deep SORT to monitor customer movement in a retail store, generate heatmaps, display real-time alerts, and export analytics per customer.
 Features
 🧍‍♂️ Person Detection & Tracking
